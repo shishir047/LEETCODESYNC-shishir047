@@ -1,4 +1,4 @@
-class Solution {
+class So {
 
     public int maxSatisfied(int[] customers, int[] grumpy, int minutes) {
         int n = customers.length;
